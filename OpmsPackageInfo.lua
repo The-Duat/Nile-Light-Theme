@@ -2,7 +2,7 @@ return {
 
 	["OpmsPackage"] = true, -- DO NOT EDIT.
 	["PackageType"] = "theme",
-	["ThemeName"] = "Nile-Dark-Theme",
+	["ThemeName"] = "Nile-Light-Theme",
 	-- ["PluginName"] = "",
 
 }
